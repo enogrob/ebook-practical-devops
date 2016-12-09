@@ -17,7 +17,7 @@ Learn everything you need to about the subject of this `eBook` project.
 ```
 Table of Contents
 
-[ ] 1: INTRODUCTION TO DEVOPS AND CONTINUOUS DELIVERY
+[x] 1: INTRODUCTION TO DEVOPS AND CONTINUOUS DELIVERY
 [ ] 2: A VIEW FROM ORBIT
 [ ] 3: HOW DEVOPS AFFECTS ARCHITECTURE
 [ ] 4: EVERYTHING IS CODE
